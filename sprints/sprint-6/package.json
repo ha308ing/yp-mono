@@ -1,0 +1,7 @@
+{
+  "name": "sprint-6",
+  "workspaces": [
+    "subjects/*"
+  ],
+  "private": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "sprints",
+  "workspaces": [
+    "sprint-6"
+  ]
+}

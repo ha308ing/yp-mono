@@ -1,0 +1,19 @@
+{
+  "name": "yp-mono",
+  "description": "Repository for yandex practicum",
+  "private": true,
+  "workspaces": [
+    "sprints/**/*"
+  ],
+  "scripts": {
+    "run": "lerna run run"
+  },
+  "dependencies": {
+    "data-storage": "file:sprints/sprint-6/subjects/04-data-storage",
+    "data-use": "file:sprints/sprint-6/subjects/05-data-use",
+    "sprint-6": "file:sprints/sprint-6"
+  },
+  "devDependencies": {
+    "lerna": "^8.0.2"
+  }
+}
